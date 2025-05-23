@@ -68,7 +68,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=440&lines=Aspiring+Data+Analyst.;Learning+AI+%26+ML+Everyday.;Let's+Build+Something+Great+Together!" />
-</p>
